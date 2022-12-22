@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "126596571875",
+    "firebase_url": "https://onlineop-cd540.firebaseio.com",
+    "project_id": "onlineop-cd540",
+    "storage_bucket": "onlineop-cd540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126596571875:android:faddf570e7a66cca",
+        "android_client_info": {
+          "package_name": "com.us.onlineop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126596571875-p72q0ff2ok44eqou5fa4npggdik3pfrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNLNro5aI_pq6UyLWbT2D1LqE46qC2rFE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
