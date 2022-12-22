@@ -1,0 +1,6 @@
+git clone https://github.com/KAttal007/Virtusa-Java-CFP-Batch-21.git
+cd Virtusa-Java-CFP-Batch-21 
+git add .  
+git status
+git commit -m "Casestudy AdityaBirla"  
+git push -u origin main 
